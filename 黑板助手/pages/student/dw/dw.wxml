@@ -1,0 +1,6 @@
+<view class = "head">进入课堂</view>
+<view class = "body">
+<view class = "word">已完结：</view>
+<view class = "class1">lesson1</view>
+<view class = "class2">lesson2</view>
+</view>

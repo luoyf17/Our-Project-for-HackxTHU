@@ -1,0 +1,23 @@
+<view class='head'> 
+<view class='test'>xx老师，您好！</view>
+</view>
+<view class='new'>
+<button class='new-button' bindtap='navigate'>开启新课</button>
+</view>
+
+<view class='section'>
+<view class='sec-tittle'>课堂</view>
+
+<view class='sec-button'>
+<button class='button'>大学物理（1）：</button>
+</view>
+<view class='sec-button'>
+<button class='button'>大学物理（2）：</button>
+</view>
+<view class='sec-button'>
+<button class='button'>大学物理（3）：</button>
+</view>
+<view class='sec-button'>
+<button class='button'>大学物理（4）：</button>
+</view>
+</view>

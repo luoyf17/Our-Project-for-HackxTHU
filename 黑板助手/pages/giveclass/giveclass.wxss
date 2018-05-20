@@ -1,0 +1,5 @@
+/* pages/giveclass/giveclass.wxss */
+.intro{
+  background-color: #d0dfdc;
+  height: 500px;
+}

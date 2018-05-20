@@ -1,0 +1,4 @@
+<view class="frontpage">
+ <view class="button" bindtap='stateChange'>开始上课 </view>
+ <view class="button2" bindtap='stateChange2'>发起课堂</view>
+</view>

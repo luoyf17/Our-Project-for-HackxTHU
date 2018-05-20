@@ -1,0 +1,24 @@
+.frontpage
+{
+  background-color: #75d2d7;
+  height : 750px;
+}
+.button
+{
+  float : left;
+  margin-top: 150px;
+  background-color: #b9f3e4;
+  height : 40px;
+  width : 750px;
+  padding-top: 15px;
+  padding-left: 120px;
+}
+.button2{
+  float: left;
+  margin-top: 10px;
+  background-color: #b9f3e4;
+  height : 40px;
+  width : 750px;
+  padding-top: 15px;
+  padding-left: 120px;
+}

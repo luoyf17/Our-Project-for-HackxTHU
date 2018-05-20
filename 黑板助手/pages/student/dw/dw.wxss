@@ -1,0 +1,32 @@
+.head{
+  background-color: #7c9b96;
+  height: 50px;
+  width: 750px;
+  padding-top: 15px;
+  padding-left: 100px;
+  float: left;
+}
+.body{
+  background-color: #d0dfdc;
+  float: left;
+
+  height: 750px;
+  width: 750px;
+}
+.word{
+  padding-left: 30 px;
+}
+.class1{
+
+  background-color: #f5f6f8;
+  float: left ;
+  height: 30px;
+  width: 750px;
+}
+.class2{
+  margin-top: 10px;
+  background-color: #f5f6f8;
+  float: left;
+  height: 30px;
+  width: 750px;
+}

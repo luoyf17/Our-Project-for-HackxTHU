@@ -1,0 +1,20 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/frontpage/frontpage",
+    "pages/student/student",
+    "pages/teacher/teacher",
+    "pages/student/dw/dw",
+  "pages/student/electricEngineering/electricEngineering",
+  "pages/onClass/onClass",
+    "pages/giveclass/giveclass"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#459dab",
+    "navigationBarTitleText": "雨黑板",
+    "navigationBarTextStyle":"white"
+  }
+
+}

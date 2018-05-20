@@ -1,0 +1,59 @@
+{
+	"description": "项目配置文件。",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.0.4",
+	"appid": "wx10b9d66c422ba04d",
+	"projectname": "%E9%BB%91%E6%9D%BF%E5%8A%A9%E6%89%8B",
+	"isGameTourist": false,
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"id": -1,
+					"name": "首页编译",
+					"pathName": "pages/frontpage/frontpage",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "首页编译",
+					"pathName": "pages/student/student",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "dw",
+					"pathName": "pages/student/dw/dw",
+					"query": ""
+				}
+			]
+		}
+	}
+}
